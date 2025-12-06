@@ -5,16 +5,31 @@
 ---
 
 <div align="center">
-  <a href="[https://linkedin.com/in/vipin-yadav](https://www.linkedin.com/in/vipin-yadav-b618b1253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" /></a>
-  
- 
-  <a href="mailto:cy7795151@gmail.com"><img src="https://img.shields.io/static/v1?message=Email&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="25" /></a>
+
+  <!-- Social Badges -->
+  <a href="https://www.linkedin.com/in/vipin-yadav-b618b1253">
+    <img 
+      src="https://img.shields.io/static/v1?label=LinkedIn&message=Connect&color=0A66C2&logo=linkedin&logoColor=white&style=for-the-badge" 
+      height="28"
+    />
+  </a>
+
+  <a href="mailto:cy7795151@gmail.com">
+    <img 
+      src="https://img.shields.io/static/v1?label=Email&message=Contact&color=D14836&logo=gmail&logoColor=white&style=for-the-badge" 
+      height="28"
+    />
+  </a>
+
 </div>
 
----
+<br/>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=vipin8797.profile" />
+  <img 
+    src="https://visitor-badge.laobi.icu/badge?page_id=vipin8797&right_color=darkcyan" 
+    alt="visitor badge" 
+  />
 </div>
 
 ---
