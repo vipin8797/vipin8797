@@ -1,101 +1,106 @@
-<h1 align="center">👋 Hi, I'm <strong>Vipin Yadav</strong></h1>
-
-<p align="center">
-  <strong>Full-Stack Developer | Backend Engineer | DevOps | Real-Time Systems</strong>
-  <br />
-  Building scalable systems with MERN, WebSockets, WebRTC, Docker & Kubernetes.
-</p>
+<div align="center">
+  <img height="160" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+</div>
 
 ---
 
-## 🚀 About Me
-
-- 💻 Full-Stack Developer specializing in **MERN + Real-Time Systems**  
-- ⚙️ Backend-focused engineer with strong interest in **system design & DevOps**  
-- 📡 Experienced with real-time communication using **Socket.io & WebRTC**  
-- 🎓 B.Tech — Computer Science (AI & ML)  
-- 🌍 Working towards global engineering opportunities  
-- 🧠 Always learning: Distributed systems, DevOps, AI, and advanced backend topics  
+<div align="center">
+  <a href="[https://linkedin.com/in/vipin-yadav](https://www.linkedin.com/in/vipin-yadav-b618b1253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" /></a>
+  
+ 
+  <a href="mailto:cy7795151@gmail.com"><img src="https://img.shields.io/static/v1?message=Email&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="25" /></a>
+</div>
 
 ---
 
-## 🧰 Tech Stack & Tools
-
-### **Frontend**
-- ⚛️ React  
-- ⚡ Vite  
-- 🎨 Tailwind CSS  
-- 🧩 Context API / Hooks  
-
-### **Backend**
-- 🟩 Node.js  
-- 🚏 Express.js  
-- 🔌 Socket.io  
-- 🎥 WebRTC  
-- 🔐 JWT / Auth  
-
-### **Database**
-- 🍃 MongoDB  
-- 🛠️ Mongoose  
-
-### **DevOps / Tools**
-- 🐳 Docker  
-- ☸️ Kubernetes  
-- 🔧 GitHub Actions  
-- ☁️ Vercel / Render  
-- 🌩️ Cloudinary  
-- 🧪 Postman  
-- 🖥️ Linux  
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=vipin8797.profile" />
+</div>
 
 ---
 
-## 📌 Featured Projects
+<h1 align="center">👋 Hey, I'm Vipin Yadav</h1>
 
-### 🔹 **Real-Time Chat Application (MERN + Socket.io)**
-- ⚡ Instant messaging (1:1 + Groups)  
-- 📎 File uploads (Cloudinary)  
-- 🔵 Online status & typing indicator  
-- 🧑‍🤝‍🧑 Friend system  
-- 🛠 Admin dashboard  
-- ☁️ Hosted on Vercel + Render  
+## 👨‍💻 About Me
 
-🔗 **Repo:** _coming soon_  
-🔗 **Live:** _coming soon_  
+I'm a **Full-Stack Developer** specializing in  
+✔ Backend Engineering  
+✔ Real-Time Systems  
+✔ DevOps  
+✔ High-performance full-stack apps  
 
----
+I work with MERN, WebSockets, WebRTC, Docker, Kubernetes and I am currently pursuing **B.Tech in Computer Science (AI/ML)**.
 
-### 🔹 **Video Conferencing App (WebRTC + Socket.io)**
-- 🎥 P2P video calling  
-- 🖥 Screen sharing  
-- 📡 Custom signaling server  
-- 💬 Real-time chat  
-
-🔗 **Repo:** _coming soon_
+**Goals:**  
+- Master full-stack + backend system architecture  
+- Build scalable real-time applications  
+- Grow into a strong DevOps + backend engineer  
+- Work internationally as a software engineer  
 
 ---
 
-## 🏅 Certifications
-- 🏆 **IBM Remote Mentoring Internship — Credit Risk Evaluation Model**
+## 🛠️ Languages & Tools
+
+<div align="left">
+  
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+  <img width="12" />
+
+  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
+  <img width="12" />
+
+  <!-- Realtime / Networking -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40"/>
+  <img width="12" />
+  
+  <!-- Database -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
+  <img width="12" />
+
+  <!-- DevOps -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40"/>
+  
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=vipin8797&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipin8797&layout=compact&theme=tokyonight" />
-</p>
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=vipin8797&show_icons=true&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipin8797&layout=compact&theme=tokyonight" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=vipin8797&theme=tokyonight&hide_border=false" height="200" />
+</div>
 
 ---
 
-## 🌐 Connect With Me
+## 📫 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/vipin-yadav-b618b1253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="cy7795151@gmail.com"><img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://vipin12323.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel" /></a>
-</p>
+- 🌐 Portfolio: "https://vipin12323.vercel.app/"  
+- 💼 LinkedIn: "https://www.linkedin.com/in/vipin-yadav-b618b1253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"  
+- 📧 Email: cy7795151@gmail.com  
 
 ---
 
-> _“I build things that are fast, reliable, and scalable.”_
+> _“I build systems that are fast, scalable, and reliable.”_
