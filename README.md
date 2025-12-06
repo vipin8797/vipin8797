@@ -1,92 +1,101 @@
-<h1 align="center">👋 Hi, I'm Vipin Yadav</h1>
+<h1 align="center">👋 Hi, I'm <strong>Vipin Yadav</strong></h1>
 
 <p align="center">
-  Full-Stack Developer • Backend Engineer • DevOps • Real-Time Systems  
-  <br>
-  Passionate about MERN, WebSockets, WebRTC, AI/ML, and scalable backend architectures.
+  <strong>Full-Stack Developer | Backend Engineer | DevOps | Real-Time Systems</strong>
+  <br />
+  Building scalable systems with MERN, WebSockets, WebRTC, Docker & Kubernetes.
 </p>
 
 ---
 
-## 🌟 About Me
+## 🚀 About Me
 
-I am a software developer specializing in **Full-Stack Development, Backend Engineering, and Real-Time Systems**.  
-I enjoy building high-performance applications using **WebSockets, WebRTC, Docker, Kubernetes**, and scalable backend architectures.
-
-I focus on understanding how systems work internally — designing clean architectures, optimizing performance, and building reliable software.
-
-🎓 Currently pursuing **B.Tech in Computer Science (AI & ML)**  
-🎯 Long-term goal: Build a strong international engineering career  
-🔥 Interests: Real-time apps, system design, DevOps, full-stack development  
+- 💻 Full-Stack Developer specializing in **MERN + Real-Time Systems**  
+- ⚙️ Backend-focused engineer with strong interest in **system design & DevOps**  
+- 📡 Experienced with real-time communication using **Socket.io & WebRTC**  
+- 🎓 B.Tech — Computer Science (AI & ML)  
+- 🌍 Working towards global engineering opportunities  
+- 🧠 Always learning: Distributed systems, DevOps, AI, and advanced backend topics  
 
 ---
 
-## 🚀 Tech Stack
+## 🧰 Tech Stack & Tools
 
 ### **Frontend**
-`React` • `Vite` • `Tailwind` • `JavaScript` • `HTML/CSS`
+- ⚛️ React  
+- ⚡ Vite  
+- 🎨 Tailwind CSS  
+- 🧩 Context API / Hooks  
 
 ### **Backend**
-`Node.js` • `Express` • `Socket.io` • `WebRTC` • `REST APIs`
+- 🟩 Node.js  
+- 🚏 Express.js  
+- 🔌 Socket.io  
+- 🎥 WebRTC  
+- 🔐 JWT / Auth  
 
 ### **Database**
-`MongoDB` • `Mongoose`
+- 🍃 MongoDB  
+- 🛠️ Mongoose  
 
 ### **DevOps / Tools**
-`Docker` • `Kubernetes` • `CI/CD` • `GitHub Actions` • `Postman` •  
-`Render` • `Vercel` • `Cloudinary` • `Git`
+- 🐳 Docker  
+- ☸️ Kubernetes  
+- 🔧 GitHub Actions  
+- ☁️ Vercel / Render  
+- 🌩️ Cloudinary  
+- 🧪 Postman  
+- 🖥️ Linux  
 
 ---
 
 ## 📌 Featured Projects
 
 ### 🔹 **Real-Time Chat Application (MERN + Socket.io)**
-✔ Private & group chat  
-✔ Friend system  
-✔ File uploads  
-✔ Online status & typing indicators  
-✔ Admin dashboard  
-✔ Deployed on Vercel + Render  
+- ⚡ Instant messaging (1:1 + Groups)  
+- 📎 File uploads (Cloudinary)  
+- 🔵 Online status & typing indicator  
+- 🧑‍🤝‍🧑 Friend system  
+- 🛠 Admin dashboard  
+- ☁️ Hosted on Vercel + Render  
 
-➡️ **GitHub Repo:** _coming soon_  
-➡️ **Live Demo:** _coming soon_
-
----
-
-### 🔹 **Video Conferencing (WebRTC + Socket.io)**
-✔ Peer-to-peer video calls  
-✔ Custom signaling server  
-✔ Screen sharing  
-✔ Real-time chat  
-
-➡️ **GitHub Repo:** _coming soon_
+🔗 **Repo:** _coming soon_  
+🔗 **Live:** _coming soon_  
 
 ---
 
-## 📜 Certifications & Achievements
+### 🔹 **Video Conferencing App (WebRTC + Socket.io)**
+- 🎥 P2P video calling  
+- 🖥 Screen sharing  
+- 📡 Custom signaling server  
+- 💬 Real-time chat  
 
-- **IBM Remote Mentoring Internship — Credit Risk Evaluation Model**  
-- **Full-Stack Development Projects (Personal & Academic)**  
+🔗 **Repo:** _coming soon_
 
 ---
 
-## 📈 GitHub Stats
+## 🏅 Certifications
+- 🏆 **IBM Remote Mentoring Internship — Credit Risk Evaluation Model**
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=vipin8797&show_icons=true&theme=tokyonight" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipin8797&layout=compact&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=vipin8797&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipin8797&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🤝 Connect With Me
+## 🌐 Connect With Me
 
-<p>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-grey?logo=gmail&style=for-the-badge" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge" /></a>
+<p align="left">
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel" /></a>
 </p>
 
 ---
 
-> _"I build things that work — fast, reliable, and scalable."_  
+> _“I build things that are fast, reliable, and scalable.”_
